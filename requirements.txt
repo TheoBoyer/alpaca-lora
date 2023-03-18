@@ -2,7 +2,7 @@ datasets
 loralib
 sentencepiece
 git+https://github.com/huggingface/transformers.git
-accelerate
+accelerate>=0.15.0
 bitsandbytes
 git+https://github.com/huggingface/peft.git
 gradio
